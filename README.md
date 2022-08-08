@@ -167,3 +167,5 @@ Hemos implementado una arquitectura basada en MVC, que se compone de los siguien
 ### Web
 - **controller**: Implementae el esterotipo @Controller, para la interacción con las vistas. 
 - **restcontroller**: Implementa el estereotipo @RestController, para la interacción vía Rest.
+
+Puedes revisar la [guía completa acá](img/modelomatriculas.png).
